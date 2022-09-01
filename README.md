@@ -1,4 +1,4 @@
-# project-template
+# Python Project Template
 TODO
 ## Setup python environment
 
